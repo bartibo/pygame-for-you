@@ -14,15 +14,15 @@ Głównym celem tego repozytorium jest dobra zabawa, a przy okazji nauka podstaw
 
 Możesz pobrać to repozytorium na dwa sposoby:
 
-- **Przez Git (zalecane):**
+- **Bezpośrednie pobranie:**
+  Kliknij zielony przycisk "Code" na górze strony i wybierz "Download ZIP". Następnie wypakuj archiwum na swoim komputerze.
+
+- **Przez Git (zawansowane):**
   Otwórz terminal i wpisz:
 
   ```bash
   git clone https://github.com/bartibo/pygame-for-you.git
   ```
-
-- **Bezpośrednie pobranie:**
-  Kliknij zielony przycisk "Code" na górze strony i wybierz "Download ZIP". Następnie wypakuj archiwum na swoim komputerze.
 
 ### 2. Instalacja wymagań
 
